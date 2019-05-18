@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-leap-day
+title: PasteKeyboard
+description: PasteKeyboard is an iOS keyboard app that used to input words in pasteboard.
+google_analytics: UA-139398409-4

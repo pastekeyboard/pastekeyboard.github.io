@@ -1,5 +1,12 @@
-## PasteKeyboard
+---
+layout: default
+---
+
+
+# What is PasteKeyboard
 
 PasteKeyboard is an iOS keyboard app that used to input words in pasteboard.
 
-https://pastekeyboard.github.io
+
+# How to use
+
