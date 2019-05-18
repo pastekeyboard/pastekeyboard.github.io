@@ -3,11 +3,11 @@ layout: default
 ---
 
 
-# asteKeyboard
+# PasteKeyboard
 
 PasteKeyboard is an iOS keyboard app that used to input words in pasteboard.
 
-[中文](./zhcn/)
+[中文](./zhcn)
 
 
 # Typical use-cases

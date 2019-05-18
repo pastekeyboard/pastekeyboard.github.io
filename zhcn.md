@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 剪贴板输入法
+override_title: 剪贴板输入法
+override_description : 用于把系统剪贴板中的内容，通过输入法实现模拟输入。
 ---
 
 
