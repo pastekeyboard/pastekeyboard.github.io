@@ -11,6 +11,10 @@ override_description : 用于把系统剪贴板中的内容，通过输入法实
 
 [English](./)
 
+# 安装地址
+
+[AppStore 安装地址](https://itunes.apple.com/cn/app/id1463618135)
+
 # 用途
 
 1. 用于微信朋友圈“粘贴”大篇幅的内容。

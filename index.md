@@ -9,6 +9,9 @@ PasteKeyboard is an iOS keyboard app that used to input words in pasteboard.
 
 [中文](./zhcn)
 
+# Install
+
+[AppStore Install Link](https://itunes.apple.com/app/id1463618135)
 
 # Typical use-cases
 
