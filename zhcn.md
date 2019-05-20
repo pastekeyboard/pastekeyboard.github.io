@@ -9,7 +9,8 @@ override_description : 用于把系统剪贴板中的内容，通过输入法实
 
 剪贴板输入法，目前支持iOS，用于把系统剪贴板中的内容，通过输入法实现模拟输入。
 
-[English](./)
+- [English](./)
+- [博客文章介绍](https://everettjf.github.io/2019/05/20/paste-keyboard-release/)
 
 # 安装地址
 
